@@ -1,0 +1,25 @@
+{
+  "name": "test_source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkSoHyeon/test_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkSoHyeon/test_node/issues"
+  },
+  "homepage": "https://github.com/ParkSoHyeon/test_node#readme"
+}
