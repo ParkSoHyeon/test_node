@@ -4,6 +4,7 @@
   "description": "",
   "main": "helloWorld.js",
   "dependencies": {
+    "app-root-dir": "^1.0.2",
     "express": "^4.15.3",
     "http": "^0.0.0"
   },
